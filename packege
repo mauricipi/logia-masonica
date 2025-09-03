@@ -1,0 +1,12 @@
+{
+  "name": "logia-masonica",
+  "version": "1.0.0",
+  "description": "Sistema de gestión financiera para logia masónica",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["logia", "masonica", "finanzas"],
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
